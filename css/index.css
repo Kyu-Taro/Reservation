@@ -1,0 +1,115 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+/* サイトのワイド */
+.site-width{
+    width: 980px;
+    margin: auto;
+    position: relative;
+}
+
+/* ヘッダー */
+header{
+    background: black;
+    width: 100%;
+    overflow: hidden;
+    height: 80px;
+}
+header h1{
+    color: white;
+    display: inline-block;
+    line-height: 80px;
+}
+header ul{
+    float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+header ul li{
+    float: left;
+    margin-left: 30px;
+}
+header ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+header ul li a:hover{
+    text-decoration: underline;
+}
+
+/* フォーム全体 */
+form{
+    text-align: center;
+    padding-top: 30%;
+}
+.main{
+    height: auto;
+    min-height: 950px;
+}
+input[type="date"]{
+    padding: 5px 30px;
+    background: rgb(214, 214, 214);
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+input[type="time"]{
+    padding: 5px 30px;
+    background: rgb(214, 214, 214);
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+input[type="submit"]{
+    background: black;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+select{
+    margin-bottom: 20px;
+    background: rgb(214, 214, 214);
+}
+input[type="text"]{
+    padding: 5px 30px;
+    background: rgb(214, 214, 214);
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+textarea{
+    background: rgb(214, 214, 214);
+    border: none;
+}
+
+/* フッター */
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+ }
+
+ /* エラーメッセージ */
+ span.error{
+     color: red;
+ }
+ h2.error{
+     color: red;
+     text-align: center;
+ }
+ 
