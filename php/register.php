@@ -63,6 +63,16 @@
                     $sql='INSERT INTO reservation(user_id,date,start,fin,number,use_table,type_id,text,reservation_date) VALUES(:user_id,:date,:start,:fin,:number,:use_table,:type_id,:text,:reservation_date)';
                     $data=[':user_id'=>$id,':date'=>$day,':start'=>$start,':fin'=>$fin,':number'=>$number,':use_table'=>$ans,':type_id'=>$type,':text'=>$text,':reservation_date'=>$reservation_date];
                     queryInsert($sql,$data);
+
+                    //次の画面で登録内容を表示するためにセッションに格納する
+                    $_SESSION['day']=$day;
+                    $_SESSION['start']=$start;
+                    $_SESSION['fin']=$fin;
+                    $_SESSION['number']=$number;
+                    $_SESSION['name']=$name;
+                    $_SESSION['tell']=$tell;
+                    $_SESSION['type']=$type;
+                    $_SESSION['text']=$text;
                     header('Location:fin.php');
                 }else{
 
@@ -72,16 +82,21 @@
                     $db=queryInsert($sql, $data);
                     //登録したユーザー情報のユーザーIDを所得する
                     $id=$db->lastInsertId();
+                    $sql2='INSERT INTO reservation(user_id,date,start,fin,number,use_table,type_id,text,reservation_date) VALUES(:user_id,:date,:start,:fin,:number,:use_table,:type_id,:text,:reservation_date)';
+                    $data2=[':user_id'=>$id,':date'=>$day,':start'=>$start,':fin'=>$fin,':number'=>$number,':use_table'=>$ans,':type_id'=>$type,':text'=>$text,':reservation_date'=>$reservation_date];
+                    queryInsert($sql2,$data2);
+
+                    //次の画面で登録内容を表示するための情報をセッションに格納する
+                    $_SESSION['day']=$day;
+                    $_SESSION['start']=$start;
+                    $_SESSION['fin']=$fin;
+                    $_SESSION['number']=$number;
+                    $_SESSION['name']=$name;
+                    $_SESSION['tell']=$tell;
+                    $_SESSION['type']=$type;
+                    $_SESSION['text']=$text;
                     header('Location:fin.php');
                 }
-
-                //いらなくなったセッションの削除
-                $_SESSION=[];
-                if(isset($_COOKIE[session_name()])){
-                    $coki=session_get_cookie_params();
-                    setcookie(session_name(),'',time()-3600,$coki['path'],$coki['domain'],$coki['secure'],$coki['httponly']);
-                }
-                session_destroy();
 
             }catch(Exception $e){
                 debug($e->getMessage());
@@ -99,7 +114,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>予約ページ</title>
 </head>
 <body>
 <!DOCTYPE html>
@@ -109,12 +124,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="../css/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <title>予約管理画面</title>
 </head>
 <body>
     <?php include('../html/header.html') ?>
     <section class="main site-width">
-        <form action="register.php" method="POST">
+        <form action="register.php" method="POST" class="form-register">
         <h2 class="error"><?php if(!empty($err_msg['top'])) echo $err_msg['top'] ?></h2>
             予約日:<span class="error"></span><br/>
             <input type="date" name="day" value="<?php echo $day ?>"><br/>
@@ -142,7 +158,5 @@
         </form>
     </section>
     <?php include('../html/footer.html') ?>
-</body>
-</html>
 </body>
 </html>

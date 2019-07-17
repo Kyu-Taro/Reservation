@@ -87,9 +87,11 @@ if (!empty($_POST)) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="../css/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <title>予約管理画面</title>
 </head>
 <body>
+    <div id="js-show"><?php session_message($_SESSION['fls_message'])?></div>
     <?php include('../html/header.html') ?>
     <section class="main site-width">
         <form action="../php/index.php" method="POST">

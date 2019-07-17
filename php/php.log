@@ -1749,3 +1749,358 @@ Stack trace:
     [use_table] => 
 )
 
+[17-Jul-2019 08:03:18 UTC] デバッグ:1回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:03:18 UTC] デバッグ:2回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:03:18 UTC] デバッグ:3回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:03:18 UTC] デバッグ:4回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: day in /Applications/MAMP/htdocs/reservation/php/register.php on line 124
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: start in /Applications/MAMP/htdocs/reservation/php/register.php on line 126
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: fin in /Applications/MAMP/htdocs/reservation/php/register.php on line 128
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: type in /Applications/MAMP/htdocs/reservation/php/register.php on line 130
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: type in /Applications/MAMP/htdocs/reservation/php/register.php on line 132
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: type in /Applications/MAMP/htdocs/reservation/php/register.php on line 133
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: type in /Applications/MAMP/htdocs/reservation/php/register.php on line 134
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: type in /Applications/MAMP/htdocs/reservation/php/register.php on line 135
+[17-Jul-2019 08:24:18 UTC] PHP Notice:  Undefined variable: number in /Applications/MAMP/htdocs/reservation/php/register.php on line 138
+[17-Jul-2019 08:31:40 UTC] デバッグ:1回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:31:40 UTC] デバッグ:2回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:31:40 UTC] デバッグ:3回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 08:31:40 UTC] デバッグ:4回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 10:58:53 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 19
+[17-Jul-2019 10:58:53 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 10:58:53 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 10:58:54 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 10:58:54 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 10:58:54 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 10:58:54 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 10:58:54 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 10:59:48 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 10:59:49 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:00:40 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:01:15 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:01:16 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:01:33 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:02:05 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:02:43 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:03:46 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:04:08 UTC] デバッグ:1回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:04:08 UTC] デバッグ:2回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:04:08 UTC] デバッグ:3回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:04:08 UTC] デバッグ:4回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: day in /Applications/MAMP/htdocs/reservation/php/fin.php on line 20
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: start in /Applications/MAMP/htdocs/reservation/php/fin.php on line 21
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: fin in /Applications/MAMP/htdocs/reservation/php/fin.php on line 22
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: number in /Applications/MAMP/htdocs/reservation/php/fin.php on line 24
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/reservation/php/fin.php on line 25
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: tell in /Applications/MAMP/htdocs/reservation/php/fin.php on line 26
+[17-Jul-2019 11:04:51 UTC] PHP Notice:  Undefined index: text in /Applications/MAMP/htdocs/reservation/php/fin.php on line 27
+[17-Jul-2019 11:10:29 UTC] デバッグ:1回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:10:29 UTC] デバッグ:2回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:10:29 UTC] デバッグ:3回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:10:29 UTC] デバッグ:4回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:11:15 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:13:28 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:14:13 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:18:11 UTC] PHP Notice:  Undefined variable: _SSESSION in /Applications/MAMP/htdocs/reservation/php/fin.php on line 23
+[17-Jul-2019 11:35:55 UTC] デバッグ:1回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:35:55 UTC] デバッグ:2回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:35:55 UTC] デバッグ:3回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 11:35:55 UTC] デバッグ:4回目の処理Array
+(
+    [use_table] => 
+)
+
+[17-Jul-2019 12:11:26 UTC] デバッグ:Array
+(
+    [id] => 1
+    [number] => 10
+)
+
+[17-Jul-2019 12:13:47 UTC] デバッグ:PDOStatement Object
+(
+    [queryString] => SELECT * FROM shop
+)
+
+[17-Jul-2019 12:38:51 UTC] PHP Notice:  Undefined variable: stt in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /Applications/MAMP/htdocs/reservation/php/shop.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:39:07 UTC] PHP Notice:  Undefined variable: stt in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /Applications/MAMP/htdocs/reservation/php/shop.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:39:08 UTC] PHP Notice:  Undefined variable: stt in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /Applications/MAMP/htdocs/reservation/php/shop.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/reservation/php/shop.php on line 12
+[17-Jul-2019 12:40:50 UTC] デバッグ:Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 3
+    [3] => 4
+)
+
+[17-Jul-2019 12:41:56 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:42:24 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:42:24 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:42:25 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:42:47 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:42:47 UTC] デバッグ:10
+[17-Jul-2019 12:43:01 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:43:01 UTC] デバッグ:10
+[17-Jul-2019 12:44:03 UTC] デバッグ:Array
+(
+    [0] => 10
+    [1] => 10
+    [2] => 10
+    [3] => 10
+)
+
+[17-Jul-2019 12:44:03 UTC] デバッグ:10
+[17-Jul-2019 12:48:12 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:48:12 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 38
+[17-Jul-2019 12:48:12 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 40
+[17-Jul-2019 12:48:12 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 42
+[17-Jul-2019 12:48:12 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 44
+[17-Jul-2019 12:49:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:49:15 UTC] デバッグ:登録完了
+[17-Jul-2019 12:49:15 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 39
+[17-Jul-2019 12:49:15 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 41
+[17-Jul-2019 12:49:15 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:49:15 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:49:51 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:49:51 UTC] デバッグ:登録完了
+[17-Jul-2019 12:49:51 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 39
+[17-Jul-2019 12:49:51 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 41
+[17-Jul-2019 12:49:51 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:49:51 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:51:29 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:51:29 UTC] デバッグ:登録完了
+[17-Jul-2019 12:51:29 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:51:29 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:51:29 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 47
+[17-Jul-2019 12:51:29 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 49
+[17-Jul-2019 12:52:34 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:52:34 UTC] デバッグ:登録完了
+[17-Jul-2019 12:52:34 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:52:34 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:52:34 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 47
+[17-Jul-2019 12:52:34 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 49
+[17-Jul-2019 12:53:03 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/reservation/php/function.php on line 73
+[17-Jul-2019 12:53:03 UTC] デバッグ:登録完了
+[17-Jul-2019 12:53:03 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:53:03 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:53:03 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 47
+[17-Jul-2019 12:53:03 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 49
+[17-Jul-2019 12:57:23 UTC] デバッグ:登録完了
+[17-Jul-2019 12:57:23 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:57:23 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:57:23 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 47
+[17-Jul-2019 12:57:23 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 49
+[17-Jul-2019 12:57:37 UTC] デバッグ:登録完了
+[17-Jul-2019 12:57:37 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 43
+[17-Jul-2019 12:57:37 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 45
+[17-Jul-2019 12:57:37 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 47
+[17-Jul-2019 12:57:37 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 49
+[17-Jul-2019 12:58:35 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 51
+[17-Jul-2019 12:58:35 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 53
+[17-Jul-2019 12:58:35 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 55
+[17-Jul-2019 12:58:35 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 57
+[17-Jul-2019 12:58:55 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 51
+[17-Jul-2019 12:58:55 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 53
+[17-Jul-2019 12:58:55 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 55
+[17-Jul-2019 12:58:55 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 57
+[17-Jul-2019 13:10:17 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 52
+[17-Jul-2019 13:10:17 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 54
+[17-Jul-2019 13:10:17 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 56
+[17-Jul-2019 13:10:17 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 58
+[17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 52
+[17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 54
+[17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 56
+[17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 58

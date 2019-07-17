@@ -28,6 +28,10 @@ header h1{
     display: inline-block;
     line-height: 80px;
 }
+header h1 a{
+    color: white;
+    text-decoration: none;
+}
 header ul{
     float: right;
     position: absolute;
@@ -48,14 +52,21 @@ header ul li a:hover{
     text-decoration: underline;
 }
 
-/* フォーム全体 */
+/* フォーム/メイン全体 */
 form{
     text-align: center;
-    padding-top: 30%;
+    padding: 10% 0;
 }
 .main{
-    height: auto;
-    min-height: 950px;
+}
+.confirmation{
+    padding-top: 10%;
+}
+.confirmation h1{
+    text-align: center;
+}
+.container{
+    text-align: center;
 }
 input[type="date"]{
     padding: 5px 30px;
@@ -90,9 +101,37 @@ input[type="text"]{
     border: none;
     margin-bottom: 20px;
 }
+input[type="number"]{
+    padding: 5px 30px;
+    background: rgb(214, 214, 214);
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
 textarea{
     background: rgb(214, 214, 214);
     border: none;
+}
+.form-register{
+    padding-top: 10%;
+}
+.container table{
+    margin: auto;
+    border: solid 2px black;
+    margin-bottom: 20px;
+}
+.container table td{
+    border: solid 2px black;
+}
+.container a{
+    background: black;
+    color: white;
+    padding: 15px 19px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+ form h1{
+    margin-bottom: 20px;
 }
 
 /* フッター */
@@ -102,6 +141,7 @@ footer{
     text-align: center;
     height: 50px;
     line-height: 50px;
+    width: 100%;
  }
 
  /* エラーメッセージ */
@@ -111,5 +151,16 @@ footer{
  h2.error{
      color: red;
      text-align: center;
+ }
+
+ /* 更新完了をアラートするCSS */
+ #js-show{
+     display: none;
+     position: fixed;
+     top: 0;
+     text-align: center;
+     background: rgba(90, 190, 221, 0.507);
+     color: white;
+     width: 100%;
  }
  

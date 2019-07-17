@@ -49,7 +49,7 @@ function datetime($time,$start){
 }
 
 //DB SELECTクエリー実行関数
-function queryPost($sql,$data){
+function queryPost($sql,$data=[]){
     $db=getDB();
     $stt=$db->prepare($sql);
     $stt->execute($data);
@@ -57,8 +57,17 @@ function queryPost($sql,$data){
     return $items;
 }
 
-//DB INSERTクエリ実行関数
-function queryInsert($sql,$data){
+//DB SELECTクエリー実行関数２
+function queryPost2($sql,$data=[]){
+    $db=getDB();
+    $stt=$db->prepare($sql);
+    $stt->execute($data);
+    return $stt;
+}
+
+
+//DB INSERT/UPDATEクエリ実行関数
+function queryInsert($sql,$data=[]){
     $db=getDb();
     $stt=$db->prepare($sql);
     $stt->execute($data);
@@ -109,5 +118,14 @@ function numberCheck($str){
         return false;
     }else{
         return true;
+    }
+}
+
+//セッションを一度だけしようする容易に削除する関数
+function session_message($str){
+    if (!empty($str)) {
+        $session_data=$_SESSION['fls_message'];
+        $_SESSION['fls_message']='';
+        echo $session_data;
     }
 }
