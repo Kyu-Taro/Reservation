@@ -2104,3 +2104,5 @@ Stack trace:
 [17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 54
 [17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 56
 [17-Jul-2019 13:12:04 UTC] PHP Notice:  Undefined variable: row in /Applications/MAMP/htdocs/reservation/php/shop.php on line 58
+[18-Jul-2019 11:32:44 UTC] PHP Notice:  Undefined index: fls_message in /Applications/MAMP/htdocs/reservation/php/index.php on line 94
+[18-Jul-2019 11:32:46 UTC] PHP Notice:  Undefined index: fls_message in /Applications/MAMP/htdocs/reservation/php/index.php on line 94
