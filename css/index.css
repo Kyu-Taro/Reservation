@@ -163,4 +163,52 @@ footer{
      color: white;
      width: 100%;
  }
- 
+
+ /* 予約一覧表示テーブルのCSS */
+ /* thead.scrollHead,tbody.scrollBody{
+    display: block;
+ } */
+ .reservation-table{
+    border: solid 2px rgb(126, 126, 126);
+    text-align: center;
+    
+    box-sizing: border-box;
+ }
+ .reservation-table td{
+     border: solid 2px rgb(126, 126, 126);
+     box-sizing: border-box;
+ }
+ .reservation-table a{
+     text-decoration: none;
+     color: white;
+     background: rgb(247, 134, 134);
+     padding: 5px 10px;
+     border-radius: 5px;
+ }
+ tr td {
+    width: 100px;
+    font-size: 13px;
+    height: 70px;
+}
+tr th{
+    width: 100px;
+    height: 35px;
+}
+thead.scrollHead,tbody.scrollBody {
+    display: block;
+} 
+
+.reservation{
+    margin-top: 10%;
+    /* overflow-y: scroll;
+    height: 200px; */
+}
+/* td,th {
+    table-layout: fixed;
+    width: 60px;
+    height: 4em;
+} */
+tbody{
+    overflow-y: scroll;
+    max-height: 500px;
+}

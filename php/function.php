@@ -36,7 +36,8 @@ function getDb(){
     $dbh='mysql:dbname=reservation; host=localhost; charset=utf8';
     $user='root';
     $pass='root';
-    $db=new PDO($dbh,$user,$pass);
+    $option=[PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION,PDO::MYSQL_ATTR_USE_BUFFERED_QUERY=>true];
+    $db=new PDO($dbh,$user,$pass,$option);
 
     return $db;
 }
@@ -78,7 +79,7 @@ function queryInsert($sql,$data=[]){
 function timecount($start,$type,$date){
     try {
         $time=datetime(HOURHARF, $start);
-        $sql='SELECT sum(use_table) AS use_table FROM reservation WHERE type_id = :type AND start between :time AND :start AND date = :date';
+        $sql='SELECT sum(use_table) AS use_table FROM reservation WHERE type_id = :type AND start between :time AND :start AND date = :date WHERE delte_flg = 0';
         $arr=[':type'=>$type,':date'=>$date,':start'=>$start,':time'=>$time];
         $items=queryPost($sql, $arr);
         return $items;

@@ -29,7 +29,7 @@ if (!empty($_POST)) {
     if (empty($err_msg)) {
         try {
             //入力された席タイプの席数を所得(デフォルトの数)
-            $sql1='SELECT * FROM shop WHERE id = :id';
+            $sql1='SELECT * FROM shop WHERE id = :id' ;
             $arr1=[':id'=>$type];
             $items1=queryPost($sql1, $arr1);
             $sheet=$items1['number'];
