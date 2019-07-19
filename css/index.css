@@ -165,14 +165,11 @@ footer{
  }
 
  /* 予約一覧表示テーブルのCSS */
- /* thead.scrollHead,tbody.scrollBody{
-    display: block;
- } */
  .reservation-table{
     border: solid 2px rgb(126, 126, 126);
     text-align: center;
-    
     box-sizing: border-box;
+    margin: auto;
  }
  .reservation-table td{
      border: solid 2px rgb(126, 126, 126);

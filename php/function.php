@@ -66,6 +66,15 @@ function queryPost2($sql,$data=[]){
     return $stt;
 }
 
+//DB SELECTクエリー３(確認用)
+function queryPost3($sql){
+    $db=getDb();
+    $stt=$db->prepare($sql);
+    $stt->execute();
+    $items=$stt->fetchAll();
+    return $items;
+}
+
 
 //DB INSERT/UPDATEクエリ実行関数
 function queryInsert($sql,$data=[]){
