@@ -130,3 +130,4 @@ function session_message($str){
         echo $session_data;
     }
 }
+

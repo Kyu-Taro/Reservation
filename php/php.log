@@ -5994,3 +5994,681 @@ Stack trace:
 )
 
 [18-Jul-2019 14:46:11 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:47:15 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:47:15 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:48:08 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:48:08 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:50:49 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:50:49 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:50:51 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:50:51 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:51:58 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:51:58 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:54:04 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:54:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:54:20 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:54:20 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:58:00 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:58:00 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:58:02 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:58:02 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:58:07 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:58:07 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:58:08 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:58:08 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 14:58:43 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[18-Jul-2019 14:58:43 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[18-Jul-2019 15:43:50 UTC] PHP Notice:  Undefined index: fls_message in /Applications/MAMP/htdocs/reservation/php/index.php on line 94
+[19-Jul-2019 12:35:48 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:35:48 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:35 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:35 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:43 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:43 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:49 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:49 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:50 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:50 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:52 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:52 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:53 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:48:53 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:48:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:07 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:07 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:25 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:25 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:26 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:26 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:32 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:32 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:34 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:34 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:55 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:55 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:50:56 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:50:56 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 47
+[19-Jul-2019 12:51:58 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:51:58 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 12:52:01 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:52:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 12:52:01 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 12:52:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:02:23 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:02:23 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:02:27 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:02:27 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:02:37 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:02:37 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:02:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/reservation/php/deleteFlg.php on line 4
+[19-Jul-2019 13:02:38 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:02:38 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:02:44 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/reservation/php/deleteFlg.php on line 4
+[19-Jul-2019 13:02:44 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:02:44 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:04:01 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:04:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:04:02 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/reservation/php/deleteFlg.php on line 4
+[19-Jul-2019 13:04:02 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:04:02 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:04:53 UTC] PHP Notice:  Undefined index: delete in /Applications/MAMP/htdocs/reservation/php/deleteFlg.php on line 5
+[19-Jul-2019 13:04:53 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:04:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:06:03 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:06:03 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:06:04 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/reservation/php/deleteFlg.php on line 4
+[19-Jul-2019 13:06:04 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:06:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:06:18 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:06:18 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:23:28 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:23:28 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:24:13 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:24:13 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:24:14 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:24:14 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:26:22 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:26:22 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:27:56 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:27:56 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:27:57 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:27:57 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48
+[19-Jul-2019 13:28:04 UTC] デバッグ:Array
+(
+    [id] => 4
+    [userName] => きゅーたろ
+    [date] => 2019-07-04
+    [start] => 18:00:00
+    [fin] => 20:00:00
+    [number] => 12
+    [use_table] => 
+    [typeName] => 禁煙テーブル
+    [text] => 
+)
+
+[19-Jul-2019 13:28:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/reservation/php/reservation.php on line 48

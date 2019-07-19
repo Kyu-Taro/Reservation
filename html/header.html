@@ -4,7 +4,20 @@
             <ul>
                 <li><a href="shop.php">店舗情報</a></li>
                 <li><a href="reservation.php">予約一覧</a></li>
-                <li><a href="userList.php">顧客一覧</a></li>
+                <li><a href="" onClick="disp();return false;">顧客一覧</a></li>
             </ul>
         </div>
+        <script type="text/javascript">
+            function disp(){
+                user=window.prompt("ユーザー名を入力してください");
+                pass=window.prompt("パスワードを入力してください");
+                if(user == 'kyutaro' && pass == '9999'){
+                    location.href="../php/userList.php";
+                }else if(user != "" && user != null && pass != "" && pass != nulls){
+                    window.alert('ユーザー情報が違います');
+                }else{
+                    window.alert('キャンセルされました');
+                }
+            }
+        </script>
 </header>

@@ -22,6 +22,7 @@
     <title>予約一覧</title>
 </head>
 <body>
+    <div id="js-show"><?php session_message($_SESSION['fls_message'])?></div>
     <?php include('../html/header.html') ?>
     <div class="reservation site-width">
         <table class="reservation-table">
@@ -41,8 +42,8 @@
                             <td><?php echo $row['use_table']?></td>
                             <td><?php echo $row['typeName']?></td>
                             <td><?php echo $row['text']?></td>
-                            <td><a href="delete_flg.php?id=<?php echo $row['id']?>">予約終了</a></td>
-                            <td><a href="delete_flg.php?id=<?php echo $row['id']?>">キャンセル</a></td>
+                            <td><a href="deleteFlg.php?id=<?php echo $row['id']?>">予約終了</a></td>
+                            <td><a href="deleteFlg.php?delete=<?php echo $row['id']?>">キャンセル</a></td>
                         </tr>
                 <?php }　?>
             </tbody>
